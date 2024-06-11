@@ -1,0 +1,41 @@
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+.table-container {
+    overflow-x: auto;
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+th {
+    background-color: #353535;
+}
+
+td {
+    background-color: #606060;
+}
+
+
